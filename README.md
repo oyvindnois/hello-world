@@ -1,2 +1,6 @@
 # hello-world
-Øyvinds first repository
+
+Hello Humans!
+
+I am Øyvind from Norway. 
+I like tea.
